@@ -1,0 +1,1 @@
+diff --git a/an_old_file.txt b/an_old_file.txt new file mode 100644 index 0000000..e69de29 diff --git a/new_file.txt b/new_file.txt index e69de29..16a07d5 100644 --- a/new_file.txt +++ b/new_file.txt @@ -0,0 +1,7 @@ +Somthing got changed here... + + +Somthing further changed.... + + +Oh no... WTF is that \ No newline at end of file
